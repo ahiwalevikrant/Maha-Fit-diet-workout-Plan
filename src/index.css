@@ -1,0 +1,7 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: system-ui, -apple-system, sans-serif; background: #FAF7F0; }
+input:focus { outline: 2px solid #D4691E; border-color: #D4691E; }
+button:focus-visible { outline: 2px solid #D4691E; outline-offset: 2px; }
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #FFE0BD; }
+::-webkit-scrollbar-thumb { background: #D4691E; border-radius: 3px; }
