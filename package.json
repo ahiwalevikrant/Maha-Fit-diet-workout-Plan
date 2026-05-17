@@ -1,5 +1,5 @@
 {
-  "name": "maha-fit",
+   "homepage": "https://github.com/ahiwalevikrant/Maha-Fit-diet-workout-Plan",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -23,6 +23,7 @@
     "eslint": "^9.0.0",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.19",
+    "gh-pages": "^6.3.0",
     "globals": "^15.0.0",
     "vite": "^5.4.11"
   }
